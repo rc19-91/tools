@@ -1,4 +1,4 @@
 # tools
 herramientas para Pentesting
 
-Scripts multipropositos
+Scripts y herramientas multipropositos
