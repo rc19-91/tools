@@ -24,7 +24,6 @@ try:
 
     host = sys.argv[1]
 
-
     def scan(port):
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         try:
